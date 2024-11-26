@@ -1,10 +1,3 @@
-﻿/*
-Jhully Vitória Nunes Leite  - 12011BCC058
-Laura de Barros Moreira     - 12111BCC042
-Gleison dos Santos Pinto    - 11721BCC002
-
-*/
-
 CREATE SCHEMA VENDAS
 SET SEARCH_PATH TO VENDAS
 
