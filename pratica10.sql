@@ -1,8 +1,3 @@
-/* Alunos : Laura de Barros Moreira - 12111bcc042
-             jhully vitoria nunes leite - 12011bcc058
-			 gleison dos santos pinto - 11721bcc002
-
-*/
 create schema universidadee
 set search_path to universidadee
 SET datestyle TO postgres, dmy;
