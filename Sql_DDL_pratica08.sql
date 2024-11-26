@@ -1,9 +1,3 @@
-/*
-Nomes: Jhully vitoriaNunes Leite - 12011BCC058
-	   Laura de barros Moreira   - 12111BCC042
-	   Gleison dos Santos Pinto  – 11721BCC002
-*/
-
 CREATE SCHEMA Locadora
 SET search_path TO Locadora
  
